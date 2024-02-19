@@ -1,1 +1,1 @@
-# MyDaily
+# DailyTrivia
